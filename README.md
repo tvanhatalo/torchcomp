@@ -1,2 +1,4 @@
 # torchcomp
-Modified torchcomp pakcage
+Modified torchcomp package
+
+source: https://github.com/DiffAPF/torchcomp
